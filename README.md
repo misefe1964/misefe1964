@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on graduating to become a Computer Engineer.
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misefe1964&layout=compact&theme=tokyonight&langs_count=6" />
-
+- 🔭 I’m currently working at SAP as a Cloud Infrastructure Developer.
 
 - 😄 Pronouns: She/Her
 - 📫 How to reach me:   
